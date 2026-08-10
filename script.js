@@ -11,7 +11,8 @@ const platforms = {
       "Name it “Your Name’s Writing Style.”",
       "Upload your writing samples under Knowledge.",
       "Add the core writing rules under Instructions.",
-      "Test it in Preview, refine it, then select Create."
+      "Test it in Preview, refine it, then select Create.",
+      "Open your custom GPT and start a new chat whenever you want to write in your style."
     ],
     note: "Knowledge holds your writing samples. Instructions explain how the assistant should use them."
   },
@@ -28,7 +29,8 @@ const platforms = {
       "Paste the core writing rules into the instructions.",
       "Under Knowledge, select Add files.",
       "Upload samples from your computer or Google Drive.",
-      "Test it in Preview, refine it, then select Save."
+      "Test it in Preview, refine it, then select Save.",
+      "Open your custom Gem and start a new chat whenever you want to write in your style."
     ],
     note: "A Google Drive sample can stay current when the document changes. Ask for a topic, audience, length, and key points each time."
   },
